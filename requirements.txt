@@ -2,3 +2,4 @@ git+https://github.com/huggingface/transformers.git@main
 torch
 flask
 Pillow
+gradio
