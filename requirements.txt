@@ -1,6 +1,4 @@
 git+https://github.com/huggingface/transformers.git@main
 torch
-open_clip_torch
-accelerate
-bitsandbytes
-scipy
+flask
+Pillow
